@@ -1,0 +1,8 @@
+{
+  "domain": "REPTILE",
+  "name": "Reptile Enclosure Manager",
+  "version": "0.0.1",
+  "codeowners": ["bhkaminski"],
+  "config_flow": true,
+  "requirements": []
+}
